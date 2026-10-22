@@ -2,7 +2,7 @@
 
 A simple, no-install web tool that helps a PMO or operations leader decide which project requests to **approve, queue, defer, or decline** based on consistent scoring and the team's real capacity.
 
-**[Try it live →](https://brittanissl.github.io/intake-prioritizer/**  
+**[Try it live →]https://brittanissl.github.io/intake-prioritizer/**  
 
 ---
 
