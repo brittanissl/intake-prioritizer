@@ -33,12 +33,6 @@ Default weights: Business value 30 · Urgency 20 · Strategic fit 20 · Risk if 
 
 Requests are approved in rank order until the team's capacity (measured in effort points) is used up.
 
-## How I built it
-
-I built this with **Claude** (Anthropic's AI assistant). I defined the problem, the scoring criteria, the decision rules, and the sample scenarios based on my PMO experience. Claude wrote the code. I then tested it, reviewed the results against how I would have prioritized the same requests, and refined it.
-
-It's a single HTML file with no server, database, or login. Data is saved only in the user's own browser.
-
 ## Try it
 
 1. Open the live link above
